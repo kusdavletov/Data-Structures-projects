@@ -1,0 +1,5 @@
+Oct. 12: We updated the handout to teach students how to use the zip command
+on our server.
+
+Oct. 10: The assignment has been released.
+
