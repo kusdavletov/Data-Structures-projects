@@ -1,8 +1,6 @@
 //
 // Simulator.h - Version 1.0
 //
-// This file is created by Tsz-Chiu Au on 10/23/17.
-//
 // You are *not* allowed to modify this file, and
 // you do *not* submit this file.
 //

@@ -14,9 +14,5 @@ int main(){
     HeapPriorityQueue<string, les> heap;
     cout << heap.size() << endl;
     heap.insert("hi");
-
-
-
-
     return 0;
 }

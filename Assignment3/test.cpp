@@ -3,8 +3,7 @@
 
 using namespace std;
 
-int main()
-{
+int main(){
 	//ArrayCompleteTree<int>::LocationAwareEntry a(5,1);
 	ArrayCompleteTree<int> a(10);
 	cout << a.size() << endl; //0
@@ -22,7 +21,6 @@ int main()
 	cout << "root: hasLeft " << a.hasLeft(root) << "hasRight " << a.hasRight(root) << "isRoot " << a.isRoot(root) << endl;
 	ArrayCompleteTree<int>::Position rootright(a.right(root));
 	cout << "root - right: hasLeft " << a.hasLeft(rootright) << "hasRight " << a.hasRight(rootright) << "isRoot " << a.isRoot(rootright) << endl;
-
 
 	for(int i = 0; i < 10; i++)
 	{

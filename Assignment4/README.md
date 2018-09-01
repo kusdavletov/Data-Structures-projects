@@ -1,0 +1,3 @@
+## Assignment 4: Directed Graphs and Dijkstra’s Algorithm
+
+Many problems in computer science, especially Artificial Intelligence, involve finding the shortest paths in a directed graph. How to correctly implement the shortest path algorithms such as the famous Dijkstra’s algorithm is an essential skill for computer science students. The performance of these algorithms heavily depends on the choice of container classes for storing directed graphs. In this exercise, you will learn how to implement the adjacency list structure for directed graphs and Dijkstra’s algorithm for solving the single-source, shortest- path problems. At the end, you will write a program to help travelers to solve their shortest path problems they encounter in real life.

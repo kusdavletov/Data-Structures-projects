@@ -5,8 +5,7 @@
 using namespace std;
 
 
-int main()
-{
+int main(){
 	HeapPriorityQueue<int, bool> a;
 	HeapPriorityQueue<int, bool> aa;
 	//HeapPriorityQueue<int, bool> b(a);
@@ -54,6 +53,5 @@ int main()
 	aa.insert(21);
 	cout << "Min:" << aa.min() << " Size:" << aa.size() <<  endl;
 	cout << "Min:" << b.min() << " Size:" << b.size() <<  endl;
-	//*/	
 }
 
