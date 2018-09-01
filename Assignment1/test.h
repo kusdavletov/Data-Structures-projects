@@ -1,5 +1,3 @@
-
-
 //
 // CircularList.h (Version 1.0)
 //
